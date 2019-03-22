@@ -3,5 +3,8 @@ import com.tecsup.lab01.controller.*;
 import com.tecsup.lab01.view.*;
 
 public class User {
-	//Yenifer
+	public String nombre;
+	public String apellido;
+	public String edad;
+
 }
