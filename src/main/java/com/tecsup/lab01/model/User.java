@@ -7,9 +7,9 @@ public class User {
 	public String apellido;
 	public String edad;
 	
-	   public User (String nombre, String apellido, String edad) {
-           this.nombre = nombre;
-           this.apellido = apellido;
-           this.edad = edad;
-       } 
+        public User (String nombre, String apellido, String edad) {
+            this.nombre = nombre;
+            this.apellido = apellido;
+            this.edad = edad;
+        } 
 }
